@@ -1,0 +1,78 @@
+<style>
+<html>
+
+.body {
+  font-family: 'Banger', cursive;
+  color: #384047;
+}
+
+ .table, th, td {
+    border: 10px solid purple;
+    border-collapse: collapse;
+	  text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+
+.h1 {
+  text-align: center;
+   text-decoration-color: red;  
+}
+ 
+.h2 {
+ font-size: 60px;
+ text-align: right;
+ text-decoration-color: black;
+
+}
+
+.img {
+	border-radius: 100%;
+	float: left;
+	width: 15%;
+	margin: 2.5%;
+}
+
+
+.h3 {
+ font-size: 60px;
+ text-decoration-line: underline;
+ text-decoration-color: black;
+ background-color: blue;
+ text-align: center;     
+}
+
+.p {
+  text-align: center;
+  font-size: 60px;
+  font-style:italic , color: "purple";
+}
+
+.span {
+font-size: 60px;
+ text-align: right; 
+ font-style: bold;
+
+}
+
+a:link {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
